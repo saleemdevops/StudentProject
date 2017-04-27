@@ -1,0 +1,5 @@
+projectKey=Student:project
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/Student:project
+ceTaskId=AVuo2qtfd4Okof9S2GYv
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVuo2qtfd4Okof9S2GYv

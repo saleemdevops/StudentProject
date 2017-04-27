@@ -616,8 +616,6 @@
         <name>LAPTOP-1FFRDPET-releases</name>
         <url>http://localhost:8081/artifactory/libs-release-local</url>
     </repository>
-</distributionManagement>
-<distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
         <name>LAPTOP-1FFRDPET-snapshots</name>

@@ -2,4 +2,5 @@
 for demo
 this is a test file
 
-WITH ARTIFACTORY
+
+9 may 2017 ... demo walkthrough

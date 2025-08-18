@@ -42,7 +42,7 @@
 		<project.version>0.0.5-SNAPSHOT</project.version>
 		<spring.version>3.2.3.RELEASE</spring.version>
 		<spring.data.version>1.4.3.RELEASE</spring.data.version>
-		<hibernate.version>4.2.1.Final</hibernate.version>
+		<hibernate.version>4.3.11.Final</hibernate.version>
 		<jersey.version>1.17.1</jersey.version>
 		<!-- used to locate the profile-specific configuration file. -->
 		<build.profile.id>dev</build.profile.id>
